@@ -1,7 +1,24 @@
 {
   "habits": [
-    { "id": "english", "name": "英語イマージョンラーニング", "color": "#5B7FD1", "dates": [] },
-    { "id": "french", "name": "フランス語 Pimsleur", "color": "#C77DBA", "dates": [] },
-    { "id": "razavi", "name": "ラザビ本", "color": "#D9A441", "dates": [] }
+    {
+      "id": "english",
+      "name": "英語イマージョンラーニング",
+      "color": "#5B7FD1",
+      "dates": [
+        "2026-07-06"
+      ]
+    },
+    {
+      "id": "french",
+      "name": "フランス語 Pimsleur",
+      "color": "#C77DBA",
+      "dates": []
+    },
+    {
+      "id": "razavi",
+      "name": "ラザビ本",
+      "color": "#D9A441",
+      "dates": []
+    }
   ]
 }
